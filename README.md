@@ -1,4 +1,7 @@
 # CpE-476
+-Chae Hyeok Lee
+-Kwon Seung Cho
+-Ki Ju Kim
 
 Task 1: Description of the Mobile Robot, include documentation and reference to datasheets, images, assembly instructions, etc. 
 
