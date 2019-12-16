@@ -53,3 +53,4 @@ We tested the OPENCV using RPI3 and found that the OPENCV was installed normally
 
 Task10: https://github.com/ftPeter/RomiPi/tree/master/Arduino/Romi-NoRpi-Debug First of all, we added and uploaded the file from the Romi-NoRpi-Debug.ino code, and tried to check it out using therosrun teleop-twist_keyboard teleop_twist_keyboard.py but failed.
 
+video for : https://www.youtube.com/watch?v=FaO3VbrEtsY
